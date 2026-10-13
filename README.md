@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
