@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
