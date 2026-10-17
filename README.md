@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Pramod-M-R/LeetCode-Submissions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
